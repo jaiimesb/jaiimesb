@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jaiimesb
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning POO, EEDD, SO, BBDD, IA, ...
-- 💞️ I’m looking to collaborate on new projects.
-- 📫 How to reach me: jaimesb2000@gmail.com
+- 👋 Hi!! I’m Jaime Segovia Baena.
+- 🌱 I’m currently studying in University of Jaén, finishing my Computer Engineer Grade.
+- 👀 I’m interested in Software & Web Development.
+
+- 📫 Mail: jaimesb2000@gmail.com
 
 <!---
 jaiimesb/jaiimesb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
