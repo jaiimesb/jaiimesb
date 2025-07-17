@@ -1,6 +1,6 @@
-- 👋 Hi!! I’m Jaime Segovia Baena.
-- 🌱 I’m currently studying in University of Jaén, finishing my Computer Engineer Grade.
-- 👀 I’m interested in Software & Web Development.
+- 👋 Hi !! I’m Jaime Segovia Baena.
+- 🌱 I’m currently studying at University of Jaén, finishing my Computer Engineer Grade.
+- 👀 I’m interested in Software Development.
 
 - 📫 Mail: jaimesb2000@gmail.com
 
